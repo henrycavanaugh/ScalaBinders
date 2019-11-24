@@ -1,1 +1,1 @@
-Place holder directory for course web site.
+Place holder directory for repository web site.
